@@ -1,4 +1,4 @@
-package com.springIOC;
+package com.springcore.springIOC;
 
 public interface Sim {
 	

@@ -1,4 +1,4 @@
-package com.springDI.bySetter.objectType;
+package com.springcore.springDI.bySetter.objectType;
 
 public class MathCheat {
 	

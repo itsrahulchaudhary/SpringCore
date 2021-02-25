@@ -1,4 +1,4 @@
-package com.springDI.bySetter.objectType;
+package com.springcore.springDI.bySetter.objectType;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
